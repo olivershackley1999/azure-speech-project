@@ -130,6 +130,9 @@ cython_debug/
 # macOS
 .DS_Store
 
+# Claude Code
+.claude/
+
 # Project-specific
 .transcription_cache/
 *.mov
