@@ -6,7 +6,10 @@
 
 __pycache__/
 *.pyc
+cache_manager.py
 
 .transcription_cache/
 
 *.mov
+
+*.txt
